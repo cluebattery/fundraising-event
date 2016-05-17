@@ -10,6 +10,10 @@ WHAT IT DOES:
 
 2) Gets names of donors who have opted in and shows them on a scrolling list
 
+SCREENSHOT ('wow' graphic appears above thermometer when goal is reached):
+
+![screenshot of final product](http://www.jrrb.com/cdm/screenshot.png)
+
 FILES:
 
 
