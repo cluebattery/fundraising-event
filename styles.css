@@ -1,0 +1,109 @@
+
+body {
+	background-color: #ebdaee;
+}
+
+li {
+	list-style: none;
+}
+
+ul {
+	
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	display: block;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:75px;
+	text-align: center;
+	background-color: #f4ad1c;
+	color:#008fd5;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	width: 700px;
+	border-radius: 15px;
+}
+
+.thermoouter{
+	background-image:url(img/therm2.png);
+	background-repeat:no-repeat;
+	position:relative;
+	width: 300px;
+	height: 777px;
+}
+
+.thermototal{
+	height:20px;
+	width:100%;
+	background-color: #000;
+	border-radius:4px;
+}
+
+.pow {
+	vertical-align:middle;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.thermoreceived{
+	height:20px;
+	background-color: #0F0;
+	border-top-left-radius:4px;
+	border-bottom-left-radius:4px;
+}
+
+.themographic {
+	width:300px;
+	height:auto;
+	overflow:visible;
+}
+
+.balance {
+	position: relative;
+	top: -25px;
+	left: -60px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:40px;
+	color:#5a4099;
+}
+
+#nt {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:60px;
+	margin-left: 25px;
+	line-height: 140px;
+	color:#210351;
+	text-align: left;
+	width: 1100px;
+	display: none;
+}
+
+#left, #right, #wow {
+	position: absolute;
+}
+
+
+#wow {
+	display: none;
+	top: 10px;
+	left: 250px;
+	width: 300px;
+	height: 160px;
+}
+
+#left {
+	text-align: center;
+	top: 200px;
+	left: 250px;
+}
+
+#right {
+	top: 1px;
+	left: 800px;
+}
+
+#wrap {
+    width: 1920px;  
+}
