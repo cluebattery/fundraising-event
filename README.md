@@ -64,4 +64,4 @@ The only requirement for the "opt-in" check box (opts-in to putting name on the 
 ```<input type="checkbox" id="os0" name="os0" value="Yes">
 <input type="hidden" name="on0" value="Opt In">```
 
-For PayPal Here (the PayPal credit card swipe device for iOS or Android app), individual giving levels ("in items") have to be set up with an opt-in of "No" and "Yes" ("in item options"). If a keypad amount is donated (not an "item"), there is no opt-in and the name won't be put on the screen.
+For PayPal Here (the PayPal credit card swipe device for iOS or Android app), individual giving levels (in "items") have to be set up with an opt-in of "No" and "Yes" (in "item options"). If a keypad amount is donated (not an "item"), there is no opt-in and the name won't be put on the screen.
